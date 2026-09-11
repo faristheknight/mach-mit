@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504714835540",
+    "project_id": "mach-mit-bd36f",
+    "storage_bucket": "mach-mit-bd36f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504714835540:android:86d51222d78e7429acdfc1",
+        "android_client_info": {
+          "package_name": "com.example.mach_mit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt9SPXsOHvVAapfMeXndg3xTK-yCcBz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504714835540:android:993bede7fe194e51acdfc1",
+        "android_client_info": {
+          "package_name": "de.machmit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt9SPXsOHvVAapfMeXndg3xTK-yCcBz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
